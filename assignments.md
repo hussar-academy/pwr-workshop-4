@@ -1,7 +1,7 @@
 # Zadanie 1.
 
 Chcemy zrobić refactor kodu, który napisaliśmy na poprzednich zajęciach.
-
+s
 #### 1.1
 Wszystkie wywołania metod serwisu `$http` chcemy wydzielić do osobnego, naszego serwisu. Robimy to po to, aby zawsze wiedzieć gdzie szukać punktów połączenia z API i zwiększyć czytelność kodu w controllerach.
 
@@ -37,7 +37,7 @@ Chcemy mieć podstronę, na której pokażemy jednego Diga, żeby móc wysłać 
 Proponowane kroki:
 
 - Dodaj i uzupełnij metodę `show` do `Api::DigsController`
-- Utwórz odpowiedni plik `.slim.html` w folderze `app/assets/templates/`
+- Utwórz odpowiedni plik `.html.slim` w folderze `app/assets/templates/`
 - Dodaj nowy controller Angularowy `DigCtrl`, który obsłuży wyświetlanie Diga
 - Utwórz nowy stan w `routes.coffee`
 - Przy każdym Digu na stronie głównej wyświetl link do niego. Wykorzystaj dyrektywę `ui-sref` z parametrem.
