@@ -14,6 +14,8 @@ Cheatsheet with tips helpful in solving the assignments.
 
 ![directories](directories.png)
 
+# [Video](https://www.youtube.com/watch?v=p5dSx1aBIhY)
+
 # Feedback
 
 We would love your feedback after the workshop. It's very important to us, so we can improve for our next meetings :)
